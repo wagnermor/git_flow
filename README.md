@@ -1,4 +1,6 @@
-#Git Flow ⏳📚💡⚠️⚠️Repository under contruction⚠️⚠️
+#Git Flow
+
+⏳📚💡⚠️⚠️Repository under contruction⚠️⚠️
 ===========
 Este é um repositório para dicas e prática do git flow.
 
